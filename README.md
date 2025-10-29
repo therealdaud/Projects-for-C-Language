@@ -225,37 +225,47 @@ make clean
 
 ▶️ Example Inputs/Outputs (Typical)
 
-Interactive programs prompt for values (e.g., names, NetIDs, GPA, grades).
+- Interactive programs prompt for values (e.g., names, NetIDs, GPA, grades).
 
-File-based programs expect filenames (e.g., input.txt, output.csv) and will write formatted results.
+- File-based programs expect filenames (e.g., input.txt, output.csv) and will write formatted results.
 
-Tip: If you’re on Windows and the resulting binary is *.exe, call .\binaryname.exe accordingly.
+- Tip: If you’re on Windows and the resulting binary is *.exe, call .\binaryname.exe accordingly.
+
+---
 
 🎯 Learning Outcomes
 
-Strengthened C fundamentals: control flow, arrays, strings, pointers
+- Strengthened C fundamentals: control flow, arrays, strings, pointers
 
-Implemented dynamic memory and pointer arithmetic
+- Implemented dynamic memory and pointer arithmetic
 
-Practiced CSV/text parsing and file output
+- Practiced CSV/text parsing and file output
 
-Built a small linked list queue with modular headers/impl files
+- Built a small linked list queue with modular headers/impl files
 
-Used a Makefile for multi-file builds
+- Used a Makefile for multi-file builds
+
+---
 
 🧰 Requirements
 
-C compiler: gcc or clang
+- C compiler: gcc or clang
 
-make (for Project 10)
+- make (for Project 10)
 
-A terminal/shell to compile and run programs
+- A terminal/shell to compile and run programs
+
+---
 
 📜 Authors
 
 Daud Ahmad Nisar
+
 Computer Science Student at the University of South Florida
+
 daudnisar1@gmail.com
+
+----
 
 📄 License
 
